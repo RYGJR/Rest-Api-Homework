@@ -1,0 +1,49 @@
+01-Sep-2021 00:36:54.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.52
+01-Sep-2021 00:36:54.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jul 31 2021 04:12:17 UTC
+01-Sep-2021 00:36:54.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.52.0
+01-Sep-2021 00:36:54.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+01-Sep-2021 00:36:54.914 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+01-Sep-2021 00:36:54.914 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+01-Sep-2021 00:36:54.914 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-15.0.2
+01-Sep-2021 00:36:54.914 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           15.0.2+7-27
+01-Sep-2021 00:36:54.914 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+01-Sep-2021 00:36:54.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\tomcat
+01-Sep-2021 00:36:54.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\tomcat
+01-Sep-2021 00:36:54.940 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+01-Sep-2021 00:36:54.941 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+01-Sep-2021 00:36:54.941 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+01-Sep-2021 00:36:54.941 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+01-Sep-2021 00:36:54.941 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+01-Sep-2021 00:36:54.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\tomcat\conf\logging.properties
+01-Sep-2021 00:36:54.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Sep-2021 00:36:54.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+01-Sep-2021 00:36:54.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+01-Sep-2021 00:36:54.944 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+01-Sep-2021 00:36:54.944 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\tomcat
+01-Sep-2021 00:36:54.944 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\tomcat
+01-Sep-2021 00:36:54.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\tomcat\temp
+01-Sep-2021 00:36:54.980 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.30] using APR version [1.7.0].
+01-Sep-2021 00:36:54.981 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+01-Sep-2021 00:36:54.982 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+01-Sep-2021 00:36:54.988 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+01-Sep-2021 00:36:55.302 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+01-Sep-2021 00:36:55.339 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [650] milliseconds
+01-Sep-2021 00:36:55.387 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+01-Sep-2021 00:36:55.387 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.52]
+01-Sep-2021 00:36:55.401 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\tomcat\webapps\docs]
+01-Sep-2021 00:36:55.700 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\tomcat\webapps\docs] has finished in [297] ms
+01-Sep-2021 00:36:55.700 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\tomcat\webapps\examples]
+01-Sep-2021 00:36:56.362 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\tomcat\webapps\examples] has finished in [662] ms
+01-Sep-2021 00:36:56.363 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\tomcat\webapps\host-manager]
+01-Sep-2021 00:36:56.414 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\tomcat\webapps\host-manager] has finished in [51] ms
+01-Sep-2021 00:36:56.414 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\tomcat\webapps\manager]
+01-Sep-2021 00:36:56.458 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\tomcat\webapps\manager] has finished in [44] ms
+01-Sep-2021 00:36:56.458 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\tomcat\webapps\ROOT]
+01-Sep-2021 00:36:56.490 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\tomcat\webapps\ROOT] has finished in [32] ms
+01-Sep-2021 00:36:56.494 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+01-Sep-2021 00:36:56.534 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1195] milliseconds
+01-Sep-2021 00:41:36.554 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+01-Sep-2021 00:41:36.555 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+01-Sep-2021 00:41:36.568 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+01-Sep-2021 00:41:36.591 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+01-Sep-2021 00:41:36.617 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

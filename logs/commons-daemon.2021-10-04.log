@@ -1,0 +1,6 @@
+[2021-10-04 17:24:02] [info]  [11236] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2021-10-04 17:24:02] [info]  [11236] Deleting service...
+[2021-10-04 17:24:02] [error] [11236] The specified service does not exist as an installed service.
+[2021-10-04 17:24:02] [info]  [11236] Delete service finished.
+[2021-10-04 17:24:02] [error] [11236] Apache Commons Daemon procrun failed with exit value: 9 (failed to delete service).
+[2021-10-04 17:24:02] [error] [11236] The specified service does not exist as an installed service.
